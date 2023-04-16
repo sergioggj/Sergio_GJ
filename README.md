@@ -1,2 +1,2 @@
-## Hola, mi nombre es Sergio 👋
+# Hola, mi nombre es Sergio 👋
 
